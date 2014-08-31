@@ -1,5 +1,6 @@
 __author__ = 'ahmed'
-def area(side)
+def area(side):
     return side*side
 Side = 4
-print ("area:",area(Side))
+print ("area:", area(Side))
+
