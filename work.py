@@ -3,7 +3,7 @@ import math
 from numbers import Number
 from numpy import *
 
-def circle_area(Number)_>Number
+def circle_area(Number)->Number:
     """
     calculat the erea of a circle given the radius
     :param radius : radius of the circle
